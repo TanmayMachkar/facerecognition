@@ -1,12 +1,9 @@
 body {
   margin: 0;
-  font-family: "Courier New", Courier, monospace;
-  background: rgb(193,35,224);
-  background: linear-gradient(90deg, rgba(193,35,224,1) 0%, rgba(0,212,255,1) 100%);
-}
-
-button {
-  cursor: pointer;
+  font-family: 'cursive',monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
 }
 
 code {
